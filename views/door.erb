@@ -1,0 +1,11 @@
+<div id="event">
+<a href="/"><img src="/events/<%= @event["image"]%>"></a>
+<h1><%=  @event["text"] %></h1>
+</div>
+<div  id="illustrate">
+    <img src="/<%= @shit_happened ? 'bad' : 'good' %>.jpg">
+</div>
+
+<script type="text/javascript">
+  setTimeout(function(){ window.location = "/"}, 180000)
+</script>

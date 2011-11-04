@@ -1,0 +1,34 @@
+good:
+  - image: dhh.jpg
+    points: 30
+    text: Ganhou um abraço do DHH
+
+  - image: why.jpg
+    points: 20
+    text: Inspiração Divina (Why_, god?)
+
+  - image: textmate2.jpg
+    points: 10
+    text: Convidado para o alpha do Textmate 2
+
+  - image: macbook.jpg
+    points: 20
+    text: Ganhou um macbook novo (sem pegar fila)
+
+
+bad:
+  - image: wow.jpg
+    points: -10
+    text: Pausa de 4 anos para a expansão do World of Warcraft
+
+  - image: cdd.jpg
+    points: -30
+    text: Obrigado a adotar o estilo CDD - Cachaça driven Development
+
+  - image: pokemon.jpg
+    points: -20
+    text: Grande engano.. pausa de 5 anos procurando o ruby gigante no Pokemon Ruby
+
+  - image:  zed.jpg
+    points: -20
+    text:  Encantado pela musicalidade do Zed Shawn, perdeu 10 anos mesmerizado.
